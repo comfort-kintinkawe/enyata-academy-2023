@@ -1,0 +1,25 @@
+Question 1
+let and var can be reassigned but const cannot be reassigned.
+
+Question 2
+We can use a variable after it has been defined by referencing its name in your code.
+
+Question 3
+we declear a string by using a single or double quotes.
+
+Question 4
+yes, for you to create a string you can use either double or single quotes.
+
+Question 5
+9 with quote is a string and 9 without a quote is not a string.
+
+Question 6
+Declaration - is the act of introducing a new variable or identifier. 
+It done by using the following keywords; let , var and const.
+
+Redeclaration - is the act of declaring a variable again within the same scope.
+
+Assignment - refers to assigning a value to a variable, it involves using the '=' assignment operator.
+
+Reassignment - refers to the act of changing the value of an existing variable.
+
